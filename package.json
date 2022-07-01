@@ -1,12 +1,12 @@
 {
-  "name": "com.prybh.XXXXXXX",
+  "name": "com.prybh.simplescenemanagement",
   "version": "0.0.0",
-  "displayName": "XXXXXXX",
-  "description": "XXXXXXX",
+  "displayName": "SimpleSceneManagement",
+  "description": "SimpleSceneManagement",
   "unity": "2021.3",
-  "documentationUrl": "https://github.com/Prybh/XXXXXXX",
-  "changelogUrl": "https://github.com/Prybh/XXXXXXX/CHANGELOG.md",
-  "licensesUrl": "https://github.com/Prybh/XXXXXXX/LICENSE.md",
+  "documentationUrl": "https://github.com/Prybh/SimpleSceneManagement",
+  "changelogUrl": "https://github.com/Prybh/SimpleSceneManagement/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Prybh/SimpleSceneManagement/LICENSE.md",
   "dependencies": {},
   "keywords": [
     "unitypackage"

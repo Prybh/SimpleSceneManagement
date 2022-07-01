@@ -1,1 +1,1 @@
-# UnityPackageTemplate
+# SimpleSceneManagement
