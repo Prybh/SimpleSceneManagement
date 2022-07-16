@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Prybh/SimpleSceneManagement/compare/v1.0.1...v1.0.2) (2022-07-16)
+
+
+### Bug Fixes
+
+* SimpleSceneLoader callable from OnClick ([aa19384](https://github.com/Prybh/SimpleSceneManagement/commit/aa193844510b51fb44ddb26a8693600cb8887634))
+
 ## [1.0.1](https://github.com/Prybh/SimpleSceneManagement/compare/v1.0.0...v1.0.1) (2022-07-15)
 
 
