@@ -5,8 +5,18 @@ public class SimpleSceneLoaderComponent : MonoBehaviour
 {
     [SerializeField] private SceneReference scene;
 
-    public void LoadScene(LoadSceneMode loadSceneMode = LoadSceneMode.Single)
+    public void LoadScene()
     {
-        SceneManager.LoadScene(scene.ScenePath, loadSceneMode);
+        LoadScene(additive: false);
+    }
+
+    public void LoadSceneAdditive()
+    {
+        LoadScene(additive: true);
+    }
+
+    public void LoadScene(bool additive)
+    {
+        SceneManager.LoadScene(scene.ScenePath, additive ? LoadSceneMode.Additive : LoadSceneMode.Single);
     }
 }
